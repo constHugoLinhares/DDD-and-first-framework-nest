@@ -1,0 +1,11 @@
+{
+  "name": "DDD-and-first-framework-nest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/constHugoLinhares/DDD-and-first-framework-nest.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
+  }
+}
